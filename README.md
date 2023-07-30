@@ -1,2 +1,2 @@
 # Creacion-Espontanea
-La liberdad de encontar en la programacion un nuevo mundo.
+La libertad  de encontar en la programacion un nuevo mundo.
